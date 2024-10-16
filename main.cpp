@@ -4,7 +4,7 @@ int main()
 {
     printf_s("Hello Git!\n");
 
-    printf_s("Hello Fanal Pullll Recest!\n");
+    printf_s("Hello Fanal Pull Recest!\n");
 
     return 0;
 }
